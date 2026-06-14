@@ -1,1 +1,13 @@
-# simplilearn_fsd_31may
+This is for the below assignment
+
+1) create two files - student.txt and employee.txt and add them to staging are
+
+2) add one more file - dept.txt into staging area but at same time restore the employee.txt and modify some changes inside the student.txt 
+
+3) push dept.txt, student.txt and employee.txt to the remote repos
+
+4) create a new file - hello.txt in remote repos directly and bring to the working directory
+
+5) send all files from working directory to remote repos
+
+6) remove a file from the remote repos and sync the changes into your working directory
